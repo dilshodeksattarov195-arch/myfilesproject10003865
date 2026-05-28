@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailfalidate",
+        "uuid": 9933050,
+        "checksum": "ts6mu6"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
